@@ -1,0 +1,1 @@
+This is Aplostar's first git project
